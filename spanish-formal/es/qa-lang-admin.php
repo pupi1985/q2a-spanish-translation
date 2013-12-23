@@ -26,7 +26,7 @@
 */
 
 	return array(
-		'active_widgets_explanation' => "Los siguientes widgets estan actualmente activos:",
+		'active_widgets_explanation' => "Los siguientes widgets están actualmente activos:",
 		'add_category_button' => 'Añadir categoría',
 		'add_field_button' => 'Añadir campo',
 		'add_link_button' => 'Añadir enlace',
