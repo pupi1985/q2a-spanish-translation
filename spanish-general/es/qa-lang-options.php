@@ -65,7 +65,7 @@
 		'confirm_user_required' => 'Nuevos usuarios deben completar confirmación:',
 		'custom_home_content' => 'Contenido para mostrar en la página de inicio (permite HTML):',
 		'custom_home_heading' => 'Cabecera para mostrar en la zona superior de la página de inicio:',
-		'default_privacy' => 'Privacidad: Tu dirección de email no será compartido o vendido a terceros.',
+		'default_privacy' => 'Privacidad: Tu dirección de email no será compartida o vendida a terceros.',
 		'default_sidebar' => 'Bienvenido a ^, donde puedes hacer preguntas y recibir respuestas de otros miembros de la comunidad.',
 		'default_subject' => 'Un mensaje de ^',
 		'default_suffix' => 'Q&A',
