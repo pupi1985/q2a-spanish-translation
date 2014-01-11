@@ -258,7 +258,7 @@
 		'show_view_counts' => 'Mostrar el número de preguntas vistas:',
 		'show_when_created' => 'Mostrar antigüedad del contenido del usuario:',
 		'site_language' => 'Idioma para la interfaz de tu sitio web:',
-		'site_maintenance' => 'Dejar el sitio web innaccesible para mantenimiento',
+		'site_maintenance' => 'Dejar el sitio web inaccesible para mantenimiento',
 		'site_theme_mobile' => 'Tema para dispositivos móviles:',
 		'site_theme' => 'Tema visual para tu sitio web:',
 		'site_title' => 'Nombre de tu sitio web para los títulos de página:',
