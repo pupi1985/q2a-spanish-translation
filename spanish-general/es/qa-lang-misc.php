@@ -70,7 +70,7 @@
 		'my_favorites_title' => 'Mis favoritos',
 		'nav_all_my_updates' => 'Todas mis actualizaciones',
 		'nav_my_content' => 'Mi contenido',
-		'nav_my_details' => 'Mis detalles',
+		'nav_my_details' => 'Mi cuenta',
 		'nav_my_favorites' => 'Mis favoritos',
 		'nav_user_activity' => 'Actividad reciente',
 		'nav_user_as' => 'Todas las respuestas',

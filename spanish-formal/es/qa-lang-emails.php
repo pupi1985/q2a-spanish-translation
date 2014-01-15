@@ -54,7 +54,7 @@
 		'q_posted_subject' => '^site_title tiene nuevas preguntas',
 		'reset_body' => "Por favor, haga clic el siguiente enlace para cambiar su contraseña en ^site_title.\n\n^url\n\Como alternativa, introduce el código siguiente en el campo proporcionado.\n\nCode: ^code\n\nSi no has solicitado cambiar su contraseña, por favor, ignora este mensaje.\n\nMuchas gracias, \n^site_title",
 		'reset_subject' => '^site_title - Reactivación de contraseña',
-		'welcome_body' => "Muchas gracias por registrarte en ^site_title.\n\n^custom^confirmSus datos de ingreso son los siguientes:\n\nCorreo electrónico: ^email\nContraseña: ^password\n\nPor favor, mantén esta información a mano y en un lugar seguro.\n\nMuchas gracias, \n\n^site_title\n^url",
+		'welcome_body' => "Muchas gracias por registrarte en ^site_title.\n\n^custom^confirmSus datos de ingreso son los siguientes:\n\nUsuario: ^handle\nCorreo electrónico: ^email\n\nPor favor, mantén esta información a mano y en un lugar seguro.\n\nMuchas gracias, \n\n^site_title\n^url",
 		'welcome_confirm' => "Por favor, haga clic en el siguiente enlace para confirmar registro.\n\n^url\n\n",
 		'welcome_subject' => '¡Bienvenido a ^site_title!',
 		'moderate_body' => "Una entrada de ^p_handle requiere su aprobación:\n\n^open^p_context^close\n\nHaga click abajo para aprobar o rechazar la entrada:\n\n^url\n\n\nHaga click abajo para revisar todas las publicaciones en cola:\n\n^a_url\n\n\nGracias,\n\n^site_title",

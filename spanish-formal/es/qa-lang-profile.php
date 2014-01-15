@@ -35,7 +35,7 @@
 		'comments' => 'Comentarios:',
 		'extra_privileges' => 'Privilegios extra:',
 		'gave_out' => 'Dados:',
-		'my_account_title' => 'Detalles de mi cuenta',
+		'my_account_title' => 'Mi cuenta',
 		'no_posts_by_x' => 'No hay entradas de ^',
 		'permit_anon_view_ips' => 'Ver las IPs de las publicaciones anónimas',
 		'permit_delete_hidden' => 'Borrar publicaciones ocultas',

@@ -66,7 +66,7 @@
 		'u_to_approve_body' => "Un nuevo usuario se ha registrado como ^u_handle.\n\nHaz clic en el siguiente enlace para aprobar el usuario:\n\n^url\n\nHaz clic en el siguiente enlace para revisar todos los usuarios que están esperando aprobación:\n\n^a_url\n\nGracias,\n\n^site_title",
 		'wall_post_body' => "^f_handle ha publicado en tu muro de ^site_title:\n\n^open^post^close\n\nPuedes responder a la publicación haciendo clic en el siguiente enlace:\n\n^url\n\nGracias,\n\n^site_title",
 		'wall_post_subject' => 'Publicación en tu muro de ^site_title',
-		'welcome_body' => "Muchas gracias por registrarte en ^site_title.\n\n^custom^confirmTus datos de ingreso son los siguientes:\n\nEmail: ^email\nContraseña: ^password\n\nPor favor, mantén esta información a mano y en un lugar seguro.\n\nGracias, \n\n^site_title\n^url",
+		'welcome_body' => "Muchas gracias por registrarte en ^site_title.\n\n^custom^confirmTus datos de ingreso son los siguientes:\n\nUsuario: ^handle\nEmail: ^email\n\nPor favor, mantén esta información a mano y en un lugar seguro.\n\nGracias, \n\n^site_title\n^url",
 		'welcome_confirm' => "Por favor, haz clic en el enlace siguiente para confirmar tu dirección de email.\n\n^url\n\n",
 		'welcome_subject' => '¡Bienvenido a ^site_title!',
 	);

@@ -38,7 +38,7 @@
 		'delete_wall_post_popup' => 'Borrar esta publicación del muro',
 		'extra_privileges' => 'Privilegios adicionales:',
 		'gave_out' => 'Otorgados:',
-		'my_account_title' => 'Detalles de mi cuenta',
+		'my_account_title' => 'Mi cuenta',
 		'no_answers_by_x' => 'No hay repuestas de ^',
 		'no_answers_by_x' => 'No hay respuestas de ^',
 		'no_posts_by_x' => 'No hay entradas de ^',

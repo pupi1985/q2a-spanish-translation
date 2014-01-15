@@ -51,6 +51,7 @@
 		'confirm_wrong_log_in' => 'Código incorrecto - por favor ^1ingresa^2 para enviar un nuevo enlace',
 		'confirm_wrong_resend' => 'Código incorrecto - por favor presiona el enlace siguiente para enviar un nuevo enlace',
 		'delete_user_button' => 'Borrar usuario',
+		'edit_profile' => 'Editar my perfil',
 		'edit_user_button' => 'Editar este usuario',
 		'email_confirmed' => 'Confirmado',
 		'email_exists' => 'La dirección de email ya pertenece a una cuenta',
