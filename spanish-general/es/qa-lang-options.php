@@ -157,7 +157,7 @@
 		'moderate_users' => 'Habilitar moderación (aprobación) de usuarios:',
 		'neat_urls' => 'Estructura URL para las páginas del sitio web:',
 		'notify_admin_q_post' => 'Notificarme por email cuando una pregunta sea publicada',
-		'notify_users_default' => 'Revisar las notificaciones por defecto:',
+		'notify_users_default' => 'Seleccionar la casilla de verificación de notificaciones por email por defecto:',
 		'option_default' => 'Por defecto',
 		'page_size_activity' => 'Longitud de la página de Todas las actividades:',
 		'page_size_ask_check_qs' => 'Máximas preguntas similares a mostrar:',
