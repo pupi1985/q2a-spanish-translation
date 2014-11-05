@@ -80,7 +80,7 @@
 		'recent_activity_by_x' => 'Actividad reciente de ^',
 		'score' => 'Puntos:',
 		'send_private_message' => ' - ^1enviar mensaje privado^2',
-		'set_bonus_button' => 'Actualizar de puntos',
+		'set_bonus_button' => 'Actualizar puntos',
 		'title' => 'Título:',
 		'user_x' => 'Usuario ^',
 		'voted_on' => 'Ha votado en:',

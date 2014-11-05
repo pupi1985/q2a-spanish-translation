@@ -57,7 +57,7 @@
 		'category_ask_not_allowed' => 'Tú no tienes permiso para hacer preguntas en esta categoría',
 		'category_js_note' => 'Para seleccionar una categoría, por favor, habilita Javascript en tu navegador.',
 		'category_required' => 'Por favor, elija una categoría',
-		'claim_button' => 'Yo he escrito esto',
+		'claim_button' => 'Yo escribí esto',
 		'clear_flags_button' => 'Quitar marcas',
 		'clear_flags_popup' => 'Borrar las marcas de todos los usuarios',
 		'close_button' => 'Cerrar',
