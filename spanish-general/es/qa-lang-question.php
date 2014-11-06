@@ -1,14 +1,11 @@
 <?php
-
 /*
-	Question2Answer 1.4 (c) 2011, Gideon Greenspan
+	Question2Answer (c) Gideon Greenspan
 
 	http://www.question2answer.org/
 
-	File: qa-include/qa-lang-question.php
-	Version: 1.4
-	Date: 2011-06-17 12:46:02 GMT
-	Description: Language phrases for question page
+	Description: This file is part of the Q2A Spanish Translation
+	Author: Gabriel Zanetti http://github.com/pupi1985
 
 	This program is free software; you can redistribute it and/or
 	modify it under the terms of the GNU General Public License
@@ -176,9 +173,3 @@
 		'your_comment_a' => 'Tu comentario en esta respuesta:',
 		'your_comment_q' => 'Tu comentario en esta pregunta:',
 	);
-
-/*
-	Omit PHP closing tag to help avoid accidental output
-*/
-
-

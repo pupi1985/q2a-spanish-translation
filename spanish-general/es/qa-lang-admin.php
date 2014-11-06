@@ -1,22 +1,17 @@
 <?php
-	
 /*
-	Question2Answer 1.4 (c) 2011, Gideon Greenspan
+	Question2Answer (c) Gideon Greenspan
 
 	http://www.question2answer.org/
 
-	
-	File: qa-include/qa-lang-admin.php
-	Version: 1.4
-	Date: 2011-06-17 12:46:02 GMT
-	Description: Language phrases for admin center
-
+	Description: This file is part of the Q2A Spanish Translation
+	Author: Gabriel Zanetti http://github.com/pupi1985
 
 	This program is free software; you can redistribute it and/or
 	modify it under the terms of the GNU General Public License
 	as published by the Free Software Foundation; either version 2
 	of the License, or (at your option) any later version.
-	
+
 	This program is distributed in the hope that it will be useful,
 	but WITHOUT ANY WARRANTY; without even the implied warranty of
 	MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
@@ -277,8 +272,3 @@
 		'widget_pages_explanation' => 'Mostrar este widget en esta posición en las siguientes páginas:',
 		'widgets_explanation' => 'Widgets disponibles:',
 	);
-	
-
-/*
-	Omit PHP closing tag to help avoid accidental output
-*/

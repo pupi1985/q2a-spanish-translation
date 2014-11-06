@@ -1,22 +1,17 @@
 <?php
-	
 /*
-	Question2Answer 1.4 (c) 2011, Gideon Greenspan
+	Question2Answer (c) Gideon Greenspan
 
 	http://www.question2answer.org/
 
-	
-	File: qa-include/qa-lang-options.php
-	Version: 1.4
-	Date: 2011-06-17 12:46:02 GMT
-	Description: Language phrases for all options, as shown in admin center
-
+	Description: This file is part of the Q2A Spanish Translation
+	Author: Gabriel Zanetti http://github.com/pupi1985
 
 	This program is free software; you can redistribute it and/or
 	modify it under the terms of the GNU General Public License
 	as published by the Free Software Foundation; either version 2
 	of the License, or (at your option) any later version.
-	
+
 	This program is distributed in the hope that it will be useful,
 	but WITHOUT ANY WARRANTY; without even the implied warranty of
 	MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
@@ -30,7 +25,7 @@
 		'allow_close_questions' => 'Permitir que las preguntas sean cerradas manualmente:',
 		'allow_login_email_only' => 'Ingreso sólo con la dirección de email (no con el nombre de usuario):',
 		'allow_multi_answers' => 'Permitir múltiples respuestas por usuario:',
-		'allow_no_category' => 'Permitir preguntas sin categoría',		
+		'allow_no_category' => 'Permitir preguntas sin categoría',
 		'allow_no_sub_category' => 'Permitir preguntas con categoría pero sin subcategoría:',
 		'allow_private_messages' => 'Permitir a los usuarios enviar mensajes privados:',
 		'allow_self_answer' => 'Permitir a los usuarios responder sus propias preguntas:',
@@ -287,8 +282,3 @@
 		'voting_on_q_page_only' => 'Permitir votar sólo en la página de la pregunta:',
 		'voting_on_qs' => 'Permitir votos en las preguntas:',
 	);
-	
-
-/*
-	Omit PHP closing tag to help avoid accidental output
-*/
