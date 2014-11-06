@@ -36,6 +36,7 @@
 		'bonus_points' => 'Puntos adicionales:',
 		'comments' => 'Comentarios:',
 		'delete_wall_post_popup' => 'Borrar esta publicación del muro',
+		'delete_pm_popup' => 'Borrar este mensaje privado',
 		'extra_privileges' => 'Privilegios adicionales:',
 		'gave_out' => 'Otorgados:',
 		'my_account_title' => 'Mi cuenta',

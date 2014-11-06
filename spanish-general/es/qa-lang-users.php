@@ -127,6 +127,7 @@
 		'send_reset_button' => 'Enviar email para resetear la contraseña',
 		'send_reset_note' => 'Un mensaje con instrucciones será enviado a tu dirección de email.',
 		'special_users' => 'Usuarios especiales',
+		'terms_not_accepted' => 'Debes marcar esto.',
 		'unblock_user_button' => 'Desbloquear usuario',
 		'unsubscribe_complete' => 'Has sido dado de baja de los envíos de email masivos enviados por ^0. Puedes volver a suscribirte en cualquier momento desde tu ^1cuenta^2.',
 		'unsubscribe' => 'Dar de baja:',
