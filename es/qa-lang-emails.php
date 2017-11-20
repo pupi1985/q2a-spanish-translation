@@ -29,7 +29,7 @@
 		'a_selected_subject' => '¡Tu respuesta en ^site_title ha sido seleccionada!',
 		'c_commented_body' => "Un nuevo comentario de ^c_handle se ha añadido después de tu comentario en ^site_title:\n\n^open^c_content^close\n\nPuedes verlo aquí:\n\n^open^c_context^close\n\nPuedes contestar añadiendo otro comentario:\n\n^url\n\nGracias, \n\n^site_title",
 		'c_commented_subject' => 'Tu comentario en ^site_title ha sido añadido',
-		'confirm_body' => "Por favor, haz clic en el enlace siguiente para confirmar tu dirección de email en ^site_title.\n\n^url\n\nGracias, \n^site_title",
+		'confirm_body' => "Por favor, haz clic en el enlace siguiente para confirmar tu dirección de email en ^site_title.\n\n^url\n\nCódigo de confirmación: ^code\n\n Gracias, \n^site_title",
 		'confirm_subject' => '^site_title - Confirmación de dirección de email',
 		'feedback_body' => "Comentarios:\n^message\n\nNombre:\n^name\n\nDirección de email:\n^email\n\nPágina anterior:\n^previous\n\nUsuario:\n^url\n\nDirección IP:\n^ip\n\nNavegador:\n^browser",
 		'feedback_subject' => '^ feedback',

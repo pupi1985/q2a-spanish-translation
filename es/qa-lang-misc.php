@@ -76,6 +76,7 @@
 		'nav_user_pms' => 'Mensajes privados',
 		'nav_user_qs' => 'Todas las preguntas',
 		'nav_user_wall' => 'Muro',
+		'next_step' => 'Siguiente',
 		'no_activity_from_x' => 'No hay actividad en ^',
 		'no_favorite_categories' => 'No hay categorías favoritas',
 		'no_favorite_qs' => 'No hay preguntas favoritas',

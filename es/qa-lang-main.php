@@ -21,6 +21,10 @@
 */
 
 	return array(
+		'_decimal_point' => ',',
+		'_thousands_separator' => '.',
+		'_thousands_suffix' => 'm',
+		'_millions_suffix' => 'M',
 		'1_answer' => '1 respuesta',
 		'1_comment' => '1 comentario',
 		'1_day' => '1 día',
@@ -119,6 +123,7 @@
 		'nav_unanswered' => 'Sin responder',
 		'nav_updates' => 'Mis Actualizaciones',
 		'nav_users' => 'Usuarios',
+		'newest_users' => 'Usuarios más nuevos',
 		'no_active_users' => 'No se han encontrado usuarios activos',
 		'no_answers_found' => 'No se han encontrado respuestas',
 		'no_answers_in_x' => 'No se han encontrado respuestas en ^',
@@ -180,19 +185,22 @@
 		'upload_limit' => 'Demasiadas subidas - por favor, inténtalo de nuevo en una hora',
 		'viewed_qs_in_x' => 'Preguntas más vistas en ^',
 		'viewed_qs_title' => 'Preguntas más vistas',
-		'view_q_must_be_approved' => 'Tu cuenta debe primero ser aprobada para ver páginas de preguntas.',
+		'view_q_must_be_approved' => 'Tu cuenta debe primero ser aprobada para ver páginas de preguntas. Por favor, espera o ^1agrega más información^2',
 		'view_q_must_confirm' => 'Por favor, ^5confirma tu dirección de email^6 para ver la página de preguntas.',
 		'view_q_must_login' => 'Por favor, ^1ingresa^2 o ^3regístrate^4 para ver la página de preguntas.',
 		'voted_down_popup' => 'Haz votado negativo - presiona para quitar el voto',
 		'vote_disabled_approve' => 'Tu cuenta debe primero ser aprobada para poder votar',
 		'vote_disabled_down_approve' => 'Tu cuenta debe ser aprobada para poder votar negativamente',
 		'vote_disabled_down' => 'Voto negativo sólo disponible para algunos usuarios',
-		'vote_disabled_hidden_a' => 'No puedes votar respuestas ocultas',
-		'vote_disabled_hidden_q' => 'No puedes votar preguntas ocultas',
+		'vote_disabled_hidden_post' => 'No puedes votar en tus propias publicaciones',
+		'vote_disabled_hidden_a' => 'No puedes votar respuestas ocultas',  // @deprecated
+		'vote_disabled_hidden_q' => 'No puedes votar preguntas ocultas',  // @deprecated
 		'vote_disabled_level' => 'Sólo pueden votar algunos usuarios',
-		'vote_disabled_my_a' => 'No puedes votar tus propias respuestas',
-		'vote_disabled_my_q' => 'No puedes votar tus propias preguntas',
+		'vote_disabled_my_post' => 'No puedes votar en tus propias publicaciones',
+		'vote_disabled_my_a' => 'No puedes votar tus propias respuestas',  // @deprecated
+		'vote_disabled_my_q' => 'No puedes votar tus propias preguntas',  // @deprecated
 		'vote_disabled_q_page_only' => 'Por favor, accede a la pregunta para votar',
+		'vote_disabled_queued' => 'Sólo puedes votar en publicaciones aprobadas',
 		'vote_down_must_confirm' => 'Por favor, ^5confirma tu dirección de email^6 para votar negativo.',
 		'vote_down_popup' => 'Haz clic para votar negativo',
 		'voted_qs_in_x' => 'Preguntas más votadas en ^',
